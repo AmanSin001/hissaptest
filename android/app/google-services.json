@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449500906265",
+    "project_id": "hissap-cc955",
+    "storage_bucket": "hissap-cc955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449500906265:android:b341c35a98308cce5f7b88",
+        "android_client_info": {
+          "package_name": "com.hissap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449500906265-6hiq65ivj7e8da5v6nul5ibari2vsi55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMQdnIFwtZFcG6zB7ghMqzaNC-Slar6o0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449500906265-6hiq65ivj7e8da5v6nul5ibari2vsi55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
